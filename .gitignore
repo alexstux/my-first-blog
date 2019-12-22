@@ -1,8 +1,8 @@
 *.pyc
 *~
 __pycache__
-myvenv
+muvirtual
 db.sqlite3
 /static
-/myproject
+/muvirtual
 .DS_Store
